@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.8.22)  11 OCT 2025 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.8.22)  11 OCT 2025 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1707,67 +1707,70 @@ No file main.nav.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/lm/lm-rm.enc}]
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-4.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+02.
  (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-94.
+102.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-94.
+102.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 94.
+(Font)              <10.95> on input line 102.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 94.
+(Font)              <8> on input line 102.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 94.
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 9
-4.
+(Font)              <6> on input line 102.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
+02.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 9
-4.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
+02.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 9
-4.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
+02.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 9
-4.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
+02.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 9
-4.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
+02.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 94.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 102.
+
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 94.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 102.
+
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 94.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 102.
+
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-94.
+102.
 
 (/usr/share/texmf/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1775,16 +1778,15 @@ File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 [2
 
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-mathsy.enc}]
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}]
 LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 113.
+(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 122.
 
 LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 113.
+(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 122.
 
 LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 113.
+(Font)              Font shape `OT1/lmss/bx/n' tried instead on input line 122.
 
 
 
@@ -1794,17 +1796,9 @@ LaTeX Font Info:    Font shape `OT1/lmss/b/n' in size <6> not available
 
 [4
 
-]
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]
 
 [5
-
-]
-
-[6
-
-]
-
-[7
 
 ]
 \openout4 = `main.vrb'.
@@ -1816,9 +1810,27 @@ LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 
-[8
+[6
 
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}]
+\openout4 = `main.vrb'.
+
+ (./main.vrb)
+
+[7
+
+]
+\openout4 = `main.vrb'.
+
+ (./main.vrb)
+Overfull \vbox (1.72923pt too high) detected at line 225
+ []
+
+
+
+[8
+
+]
 \openout4 = `main.vrb'.
 
  (./main.vrb)
@@ -1829,11 +1841,6 @@ File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 \openout4 = `main.vrb'.
 
  (./main.vrb
-LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-11.
- (/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
-File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 
 ! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
 
@@ -1841,8 +1848,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13     print("
-                Could not load 'libsolver.so'. Please compile solver.c first.")
+l.12     "
+          ""Prompts the user for 3 vector components and returns them as a l...
 
 ? H
 Your command was ignored.
@@ -1856,14 +1863,77 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 ...olver.so'. Please compile solver.c first."
+l.12     ""
+           "Prompts the user for 3 vector components and returns them as a l...
+
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12     """
+            Prompts the user for 3 vector components and returns them as a l...
+
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...or components and returns them as a list."
+                                                  ""
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...r components and returns them as a list.""
+                                                  "
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ... components and returns them as a list."""
+                                                  
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15             input_str = input(f"
+                                     Enter the 3 components for vector {vect...
+
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...or vector {vector_name} (e.g., 1, 2, 3): "
                                                   )
 ? 
-)
-Overfull \vbox (1.72923pt too high) detected at line 259
- []
-
-
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
+16.
+(/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
 
 [10
 
@@ -1878,8 +1948,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 print("
-            --- Python with C Library Solution ---")
+l.6                 print("
+                           Error: Please enter exactly 3 numbers separated b...
+
 ? 
 
 ! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
@@ -1888,14 +1959,30 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...t("--- Python with C Library Solution ---"
+l.6 ...ter exactly 3 numbers separated by commas."
+                                                  )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8             print("
+                       Error: Invalid input. Please enter numbers only.")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... Invalid input. Please enter numbers only."
                                                   )
 ? 
 )
-Overfull \vbox (1.72923pt too high) detected at line 287
- []
-
-
 
 [11
 
@@ -1910,8 +1997,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3   print(f"
-              The point of contact is ({contact_x:.1f}, {contact_y:.2f})")
+l.4     print(f"
+                Error loading shared library '{lib_name}': {e}")
 ? 
 
 ! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
@@ -1920,26 +2007,78 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...tact is ({contact_x:.1f}, {contact_y:.2f})"
+l.4 ...r loading shared library '{lib_name}': {e}"
+                                                  )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     print("
+               Please ensure you have compiled 'vector_lib.c' in the same di...
+
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...iled 'vector_lib.c' in the same directory."
+                                                  )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 if __name__ == "
+                     __main__":
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 if __name__ == "__main__"
+                              :
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18     print("
+                This script checks if three 3D vectors are linearly dependen...
+
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...t using a C function and then plots them."
                                                   )
 ? 
 )
+Overfull \vbox (1.72923pt too high) detected at line 313
+ []
+
+
 
 [12
-
-]
-\openout4 = `main.vrb'.
-
- (./main.vrb)
-
-[13
-
-]
-\openout4 = `main.vrb'.
-
- (./main.vrb)
-
-[14
 
 ]
 \openout4 = `main.vrb'.
@@ -1952,8 +2091,120 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 plt.savefig("
-                  /media/indhiresh-s/New Volume/Matrix/ee1030-2025/ee25btech...
+l.4     v1_list = get_vector_from_user("
+                                        v1")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4     v1_list = get_vector_from_user("v1"
+                                           )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     v2_list = get_vector_from_user("
+                                        v2")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     v2_list = get_vector_from_user("v2"
+                                           )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     v3_list = get_vector_from_user("
+                                        v3")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6     v3_list = get_vector_from_user("v3"
+                                           )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18     print("
+                \n--- Analysis Result from C Function ---")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...\n--- Analysis Result from C Function ---"
+                                                  )
+? 
+)
+Overfull \vbox (1.72923pt too high) detected at line 339
+ []
+
+
+
+[13
+
+]
+\openout4 = `main.vrb'.
+
+ (./main.vrb
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4         print("
+                   The vectors are linearly dependent (coplanar).")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...vectors are linearly dependent (coplanar)."
+                                                  )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5         print("
+                   Generating a 3D plot to visualize the vectors on their pl...
 
 ? 
 
@@ -1963,22 +2214,109 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...btech11027/MATGEO/10.4.3/figs/figure1.png"
+l.5 ...to visualize the vectors on their plane..."
+                                                  )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7         print("
+                   The vectors are linearly independent.")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...int("The vectors are linearly independent."
+                                                  )
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         print("
+                   Generating a 3D plot of the vectors...")
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...nt("Generating a 3D plot of the vectors..."
                                                   )
 ? 
 )
 
+[14
+
+]
+\openout4 = `main.vrb'.
+
+ (./main.vrb)
+Overfull \vbox (1.72923pt too high) detected at line 384
+ []
+
+
+
 [15
 
 ]
-<figs/figure1.png, id=459, 722.7pt x 722.7pt>
-File: figs/figure1.png Graphic file (type png)
-<use figs/figure1.png>
-Package pdftex.def Info: figs/figure1.png  used on input line 378.
-(pdftex.def)             Requested size: 208.38666pt x 208.38666pt.
+\openout4 = `main.vrb'.
 
+ (./main.vrb)
 
 [16
+
+]
+\openout4 = `main.vrb'.
+
+ (./main.vrb
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     plt.savefig("
+                     /media/indhiresh-s/New Volume/Matrix/ee1030-2025/ee25bt...
+
+? 
+
+! LaTeX Error: Command \textquotedbl unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...5btech11027/MATGEO/12.353/figs/figure1.png"
+                                                  )
+? 
+)
+
+[17
+
+]
+<figs/figure1.png, id=518, 722.7pt x 578.16pt>
+File: figs/figure1.png Graphic file (type png)
+<use figs/figure1.png>
+Package pdftex.def Info: figs/figure1.png  used on input line 425.
+(pdftex.def)             Requested size: 260.48056pt x 208.38445pt.
+
+
+[18
 
  <./figs/figure1.png>]
 \tf@nav=\write7
@@ -2009,25 +2347,23 @@ Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 59933 strings out of 473197
- 1448428 string characters out of 5718605
- 2556984 words of memory out of 5000000
- 82148 multiletter control sequences out of 15000+600000
+ 60074 strings out of 473197
+ 1450789 string characters out of 5718605
+ 2620984 words of memory out of 5000000
+ 82277 multiletter control sequences out of 15000+600000
  601628 words of font info for 81 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 128i,21n,123p,1176b,1477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,1176b,1477s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share
-/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/
-lmtt10.pfb>
-Output written on main.pdf (16 pages, 249985 bytes).
+ic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (18 pages, 290217 bytes).
 PDF statistics:
- 552 PDF objects out of 1000 (max. 8388607)
- 467 compressed objects within 5 object streams
- 34 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 606 PDF objects out of 1000 (max. 8388607)
+ 515 compressed objects within 6 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 90 words of extra memory for PDF output out of 10000 (max. 10000000)
 

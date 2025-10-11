@@ -1,12 +1,16 @@
 \frametitle{Python Code}
         \begin{lstlisting}
-   plt.grid(True)
-plt.legend()
+plt.axhline(0, color='grey', linewidth=0.5)
+plt.axvline(0, color='grey', linewidth=0.5)
+plt.grid(True)
+plt.legend(handles=legend_elements)
 plt.axis('equal')
-plt.ylim(-1, 6)
-plt.xlim(-1, 6)
+plt.xlim(-6, 6)
+plt.ylim(-6, 6)
 plt.savefig("/media/indhiresh-s/New Volume/Matrix/ee1030-2025/ee25btech11027/MATGEO/10.4.3/figs/figure1.png")
 plt.show()
+
+
 
 
         \end{lstlisting}

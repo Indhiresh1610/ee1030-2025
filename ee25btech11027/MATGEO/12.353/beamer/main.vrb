@@ -1,0 +1,8 @@
+\frametitle{Python Code}
+        \begin{lstlisting}
+      ax.legend()
+    ax.grid(True)
+    plt.savefig("/media/indhiresh-s/New Volume/Matrix/ee1030-2025/ee25btech11027/MATGEO/12.353/figs/figure1.png")
+    plt.show()
+
+        \end{lstlisting}
