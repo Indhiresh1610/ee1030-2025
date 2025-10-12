@@ -83,52 +83,54 @@ Given points are:
 \begin{align}
  \Vec{P}=\myvec{2\\1\\5}\;\;,\Vec{Q}=\myvec{-1\\3\\4}\;\;and\;\;\Vec{R}=\myvec{3\\0\\6}
 \end{align}
-Now finding two vectors in the plane:
-
+The equation of plane through the points $\Vec{P}$,$\Vec{Q}$ and $\Vec{R}$ can be given as
 \begin{align}
- \Vec{P}\Vec{Q}=\myvec{-3\\2\\-1}
+\myvec{\Vec{P}&\Vec{Q}&\Vec{R}}^T\Vec{n}=\myvec{1\\1\\1}
+\end{align}
+Where $\Vec{n}$ is the normal to the plane
+\begin{align}
+\myvec{2&-1&3\\1&3&0\\5&4&6}^T \Vec{n}=\myvec{1\\1\\1}
 \end{align}
 \begin{align}
-\Vec{P}\Vec{R}=\myvec{1\\-1\\1}
+    \myvec{2&1&5\\-1&3&4\\3&0&6} \Vec{n}=\myvec{1\\1\\1}
 \end{align}
-Now the required vector be $\Vec{n}$
+Now forming the augmented matrix and performing row operations
 \begin{align}
-\Vec{n}=\Vec{P}\Vec{Q}\times\Vec{P}\Vec{R}
-\end{align}
-Let
-\begin{align}
-    \Vec{A}=\Vec{P}\Vec{Q}\;\;and\;\;\Vec{B}=\Vec{P}\Vec{R}
-\end{align}
-Then
-\begin{align}
-    \Vec{n}=\Vec{A}\times\Vec{B}
+   \augvec{3}{2}{2&1&5&1\\-1&3&4&1\\3&0&6&1}\xleftrightarrow{R_2\longleftarrow -R_2} \augvec{3}{2}{2&1&5&1\\1&-3&-4&-1\\3&0&6&1}
 \end{align}
 
 \begin{align}
-\Vec{A}\times\Vec{B}=\myvec{\mydet{\Vec{A_{23}}\Vec{B_{23}}}\\\\\mydet{\Vec{A_{31}} \Vec{B_{31}}}\\\\\mydet{\Vec{A_{12}} \Vec{B_{12}}}}
+  \augvec{3}{2}{2&1&5&1\\1&-3&-4&-1\\3&0&6&1}\xleftrightarrow[R_1\longleftarrow R_1-2R_2]{R_3\longleftarrow R_3-3R_2}\augvec{3}{2}{0&7&13&3\\1&-3&-4&-1\\0&9&18&4}
 \end{align}
 
 \begin{align}
- \mydet{\Vec{A_{23}}\Vec{B_{23}}}=\mydet{2&-1\\-1&1}=1
+\augvec{3}{2}{0&7&13&3\\1&-3&-4&-1\\0&9&18&4}\xleftrightarrow{R_3\longleftarrow 7R_3-9R_1}\augvec{3}{2}{0&7&13&3\\1&-3&-4&-1\\0&0&9&1}
 \end{align}
 
 \begin{align}
- \mydet{\Vec{A_{31}} \Vec{B_{31}}}=-\mydet{-3&-1\\1&1}=2
+\augvec{3}{2}{0&7&13&3\\1&-3&-4&-1\\0&0&9&1}\xleftrightarrow[R_1\longleftarrow \frac{1}{7}R_1]{R_3\longleftarrow \frac{1}{9}R_3} \augvec{3}{2}{0&1&\frac{13}{7}&\frac{3}{7}\\1&-3&-4&-1\\0&0&1&\frac{1}{9}}
 \end{align}
 
 \begin{align}
- \mydet{\Vec{A_{12}} \Vec{B_{12}}}=\mydet{-3&2\\1&-1}=1
+ \augvec{3}{2}{0&1&\frac{13}{7}&\frac{3}{7}\\1&-3&-4&-1\\0&0&1&\frac{1}{9}} \xleftrightarrow[R_2\longleftarrow R_2+4R_3]{R_1\longleftarrow R_1-\frac{13}{7}R_3}\augvec{3}{2}{0&1&0&\frac{2}{9}\\1&-3&0&-\frac{5}{9}\\0&0&1&\frac{1}{9}} 
 \end{align}
 
 \begin{align}
-  \Vec{A}\times\Vec{B}=\myvec{1\\2\\1}
+ \augvec{3}{2}{0&1&0&\frac{2}{9}\\1&-3&0&-\frac{5}{9}\\0&0&1&\frac{1}{9}}\xleftrightarrow{R_2\longleftarrow R_2+3R_1}  \augvec{3}{2}{0&1&0&\frac{2}{9}\\1&0&0&\frac{1}{9}\\0&0&1&\frac{1}{9}}
 \end{align}
+
 \begin{align}
-   \Vec{n}=\myvec{1\\2\\1}
+ \augvec{3}{2}{0&1&0&\frac{2}{9}\\1&0&0&\frac{1}{9}\\0&0&1&\frac{1}{9}}\xleftrightarrow{R_2\longleftrightarrow R_1} \augvec{3}{2}{1&0&0&\frac{1}{9}\\0&1&0&\frac{2}{9}\\0&0&1&\frac{1}{9}}
 \end{align}
-
-
-
+The equation of plane can be given as:
+\begin{align}
+   \myvec{1&2&1}\Vec{x}=9
+\end{align}
+Normal of the plane is:
+\begin{align}
+   \Vec{n}=\myvec{1\\2\\1}  
+\end{align}
+This normal vector is perpendicular to the plane.\\\\
 From the figure it is clearly verified that the theoretical solution matches with the computational solution.\\
 \begin{figure}[h]
     \centering
